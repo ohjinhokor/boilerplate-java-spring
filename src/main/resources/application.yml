@@ -1,0 +1,13 @@
+spring:
+  config:
+    import:
+      - classpath:application-datasource.yml
+      - classpath:application-auth.yml
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        format_sql: true
+        default_batch_fetch_size: 1000
+    open-in-view: false
