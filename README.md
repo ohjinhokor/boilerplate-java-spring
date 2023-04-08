@@ -1,3 +1,1 @@
-# boilerplate-spring-java
-
-## Spring Boot, Spring Security, Java, JPA, QueryDSL, JWT
+## Java, Spring Boot, Spring MVC, Spring Security, JPA, QueryDSL, JWT
